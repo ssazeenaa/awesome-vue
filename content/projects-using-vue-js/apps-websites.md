@@ -24,6 +24,7 @@ meta:
 
 # Apps/Websites
 
+- [Edit Photos For Free](https://editphotosforfree.com/) - Free Batch Image Editing Tools and Photo Apps Online
 - [Laravel Spark](https://spark.laravel.com/)
 - [Vice Video](https://video.vice.com/)
 - [Formlets](https://www.formlets.com)
